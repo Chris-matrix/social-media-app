@@ -1,6 +1,4 @@
-Here’s a professional `README.md` file for your **Social Feed Project** using Markdown. This file provides an overview of the project, setup instructions, and other relevant details.
 
----
 
 ```markdown
 # Social Feed Project

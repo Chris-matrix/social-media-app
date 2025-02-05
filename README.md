@@ -1,5 +1,4 @@
 ---
-
 # Social Feed Project
 
 **Welcome to the Social Feed Project! 🚀**
